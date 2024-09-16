@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-#### ** Academic and Professional Involvement**\
+#### **Academic and Professional Involvement**\
 
-My dedication to advancing the field of communication and journalism is reflected through my active participation in various roles. Since 2022, I have been a **journal reviewer** for [*Journalism Studies*](https://www.tandfonline.com/journals/rjos20) and the [*International Journal of Communication*](https://ijoc.org/index.php/ijoc), critically reviewing scholarly work and contributing to the academic discourse on media and communication.
+My dedication to advancing the field of communication and journalism is reflected through my active participation in various roles. Since 2022, I have been a **journal reviewer** for [_Journalism Studies_](https://www.tandfonline.com/journals/rjos20) and the [_International Journal of Communication_](https://ijoc.org/index.php/ijoc), critically reviewing scholarly work and contributing to the academic discourse on media and communication.
 
 In 2023, I took on the role of **panel co-organizer & chair** for the session titled "The Future of News Images in a Social Media World" at the [Association for Education in Journalism and Mass Communication (AEJMC)](https://www.aejmc.org/) 106th Annual Conference. This panel explored the evolving dynamics of news imagery in the age of social media. Additionally, I served as a **conference reviewer** for the [International Communication Association](https://www.icahdq.org/) in 2024, assessing scholarly papers to help shape the conference program.\
 

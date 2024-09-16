@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 4
 ---
@@ -14,21 +14,21 @@ My teaching philosophy is anchored in the belief that education extends beyond k
 
 
 
-##### ***Digital Media Research* (graduate-level, Rutgers University)**
+##### **_Digital Media Research_ (graduate-level, Rutgers University)**
 ##### Summer 2022, 2023, 2024
 
 
  I have had the opportunity to teach Digital Media Research as the instructor of record on three occasions and have received an overall 4.62/5 teaching effectiveness rating. Through this course, students will be introduced to some fundamental quantitative, qualitative, and interpretive methods for doing research on digital media (online media, mobile media, and social media) and ethical ways of employing those methods. Students will learn about how to apply these methods to studies of digital media creation, content, and use. At the end of this course, students will have a solid understanding of how to develop a research question, as well as several general research methods used by digital media scholars. You will also gain an appreciation for the ethical considerations involved in conducting research on human subjects.  
  
 
-##### ***Techniques of Speaking* (undergraduate-level, Drexel University)**
+##### **_Techniques of Speaking_ (undergraduate-level, Drexel University)**
 ##### Winter & Spring 2021 
 
 
 I taught a public speaking course at Drexel University twice, designed as an interactive workshop to enhance students' skills in delivering various types of speeches, including explanation, persuasion, and argumentation. The course covered key aspects of public speaking such as topic selection, research, organization, and effective presentation techniques. Through practice and critique, students learned to give and receive feedback, use rhetoric effectively, and apply different genres of public speaking.
 
 
-##### ***Business Communication* (undergraduate-level, Drexel University)**
+##### **_Business Communication_ (undergraduate-level, Drexel University)**
 ##### Summer & Fall 2020 
 
 
@@ -40,23 +40,23 @@ This course, which I taught two times, focused on developing written communicati
 
 ##### **Rutgers University**
 
-*Introduction to Media* (Spring 2023 & Fall 2024) 
+_Introduction to Media_ (Spring 2023 & Fall 2024) 
 
-*Digital Media Research* (Spring 2022, Fall & Spring 2023, Spring 2024) 
+_Digital Media Research_ (Spring 2022, Fall & Spring 2023, Spring 2024) 
 
-*Ethics, Values, & Change in Information Practices* (Fall 2023) 
+_Ethics, Values, & Change in Information Practices_ (Fall 2023) 
 
-*Gender, Race, & Class in the Media* (Fall 2022)
+_Gender, Race, & Class in the Media_ (Fall 2022)
 
 
 ##### **Drexel University**
-*Theory & Models of Communication* (Winter 2020)
+_Theory & Models of Communication_ (Winter 2020)
 
-*Principles of Communication* (Winter 2020)
+_Principles of Communication_ (Winter 2020)
 
-*Digital Ethnography* (Fall 2019)
+_Digital Ethnography_ (Fall 2019)
 
-*Language in Society* (Fall 2019)
+_Language in Society_ (Fall 2019)
 
 
 
