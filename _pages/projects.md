@@ -7,7 +7,6 @@ nav: false
 nav_order: 6
 horizontal: false
 img: assets/img/12.jpg
-
 ---
 
 <!-- <h4>

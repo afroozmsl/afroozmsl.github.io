@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: 
+description:
 nav: true
 nav_order: 3
 ---
@@ -20,9 +20,9 @@ nav_order: 3
 
 
 #### Works in Progress
-**Mosallaei, A.** , & Porpora, D. **(R&R)**. Citizen videos vs. legacy media visual reports: How eyewitness imagery becomes a corrective. *International Journal of Communication*.
+**Mosallaei, A.** , & Porpora, D. **(R&R)**. Citizen videos vs. legacy media visual reports: How eyewitness imagery becomes a corrective. _International Journal of Communication_.
 
-**Mosallaei, A.** , Wang, L., & Ognyanova, K. **(under review)**. From politics to entertainment: Exploring “News Finds Me” perceptions across news topics. *Journal of Computer-Mediated Communication.*.
+**Mosallaei, A.** , Wang, L., & Ognyanova, K. **(under review)**. From politics to entertainment: Exploring “News Finds Me” perceptions across news topics. _Journal of Computer-Mediated Communication._.
 
 
 **Mosallaei, A.** , Thomas-Walters, L., Goldberg, M. H., Rosenthal, S. A., & Leiserowitz, A. **(data collection)**. Examining heatwave imagery: A comparative analysis of risk perception across valence categories. 
@@ -34,25 +34,25 @@ nav_order: 3
 
 
 **Mosallaei, A.** (2023). Do you see what I see? Perceptions and effects of image-text congruity
-in online climate change news articles. *National Communication Association.*.
+in online climate change news articles. _National Communication Association_.
 
 Badiei, B., **Mosallaei, A.** (2023). Multiple erasures: The blind spots of American journalism
-and the ongoing revolutionary movement in Iran. *Canadian Communication Association.*.
+and the ongoing revolutionary movement in Iran. _Canadian Communication Association_.
 
 **Mosallaei, A.** (2022). Should I run this photo? A research agenda for examining news photo
-selection. *Association for Education in Journalism & Mass Communication.*.
+selection. _Association for Education in Journalism & Mass Communication_.
 
 **Mosallaei, A.**, & Porpora, D. (2021). Legacy press coverage of the Iranian Bloody November in
-2019: A departure from the protest paradigm? *Association for Education in Journalism & Mass Communication.*.
+2019: A departure from the protest paradigm? _Association for Education in Journalism & Mass Communication_.
 
 **Mosallaei, A.**, & Porpora, D. (2021). Legacy press and citizen videos: Textual (but not visual)
-departure from the protest paradigm. *Association for Education in Journalism & Mass Communication Mid-winter Conference.*.
+departure from the protest paradigm. _Association for Education in Journalism & Mass Communication Mid-winter Conference_.
 
 
 
 ### **White Papers**
 
-**Mosallaei, A.** (2024). [Social media’s untapped potential in the climate-change fight](https://www.freepress.net/blog/social-medias-untapped-potential-climate-change-fight). *Free Press*.
+**Mosallaei, A.** (2024). [Social media’s untapped potential in the climate-change fight](https://www.freepress.net/blog/social-medias-untapped-potential-climate-change-fight). _Free Press_.
 
 
 
