@@ -20,7 +20,7 @@ In 2023, I was honored to be an **invited panelist** for a panel titled ["'Woman
 <!-- Embedding the YouTube video using iframe -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8EcrTkkmtl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
-Further contributing to the dialogue on media and uprisings, I co-organized and co-chaired a panel on "Iranian uprisings and (non)mainstream journalism: Possibilities and limitations" at the Department of Journalism & Media Studies, Rutgers University, in the winter of 2023. This panel addressed the critical intersection of media coverage and political movements.\
+Further contributing to the dialogue on media and uprisings, I co-organized and co-chaired a panel on "Iranian uprisings and (non)mainstream journalism: Possibilities and limitations" at the Department of Journalism & Media Studies, Rutgers University, in the winter of 2023. This panel addressed the critical intersection of media coverage and political movements.
 
 #### **Leadership and Organizational Roles**
 
