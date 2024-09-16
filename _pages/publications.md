@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-### **Peer-reviewed Journal Articles**
+#### **Peer-reviewed Journal Articles**
 
 
 #### Published Works
@@ -17,7 +17,7 @@ nav_order: 3
 
 
 **Mosallaei, A.** , & Feldman, L. **(in press)**. Do you see what I see? Perceptions & effects of image-text congruity in online climate change news. *Journalism & Mass Communication Quarterly*.
-\
+
 
 #### Works in Progress
 **Mosallaei, A.** , & Porpora, D. **(R&R)**. Citizen videos vs. legacy media visual reports: How eyewitness imagery becomes a corrective. *International Journal of Communication*.
@@ -25,7 +25,9 @@ nav_order: 3
 **Mosallaei, A.** , Wang, L., & Ognyanova, K. **(under review)**. From politics to entertainment: Exploring “News Finds Me” perceptions across news topics. *Journal of Computer-Mediated Communication.*.
 
 
-**Mosallaei, A.** , Thomas-Walters, L., Goldberg, M. H., Rosenthal, S. A., & Leiserowitz, A. **(data collection)**. Examining heatwave imagery: A comparative analysis of risk perception across valence categories. \
+**Mosallaei, A.** , Thomas-Walters, L., Goldberg, M. H., Rosenthal, S. A., & Leiserowitz, A. **(data collection)**. Examining heatwave imagery: A comparative analysis of risk perception across valence categories. 
+
+
 
 ### **Peer-reviewed Conference Papers**
 
@@ -46,9 +48,9 @@ selection. *Association for Education in Journalism & Mass Communication.*.
 **Mosallaei, A.**, & Porpora, D. (2021). Legacy press and citizen videos: Textual (but not visual)
 departure from the protest paradigm. *Association for Education in Journalism & Mass Communication Mid-winter Conference.*.
 
-\
 
-### ** White Papers**
+
+### **White Papers**
 
 **Mosallaei, A.** (2024). [Social media’s untapped potential in the climate-change fight](https://www.freepress.net/blog/social-medias-untapped-potential-climate-change-fight). *Free Press*.
 

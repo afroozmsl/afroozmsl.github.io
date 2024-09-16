@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 nav_order: 1
-subtitle: <b> Digital Media & Policy Scholar 
+subtitle: Digital Media & Policy Scholar 
 
 profile:
   align: right

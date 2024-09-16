@@ -10,7 +10,7 @@ img: assets/img/12.jpg
 
 ---
 
-<h4>
+<!-- <h4>
 <b>Journey into Visual Communication and Digital Media</b></h4>
 Before entering academia, I spent time in the advertising and marketing industry, where my passion for visual communication and digital media grew. This experience deepened my curiosity about the theories behind media effects and persuasion in the digital world, eventually leading me to graduate school.
 
@@ -96,4 +96,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
