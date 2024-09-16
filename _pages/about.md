@@ -22,4 +22,3 @@ I was awarded the [COMPASS](hhttps://www.asc.upenn.edu/research/centers/compass/
 My work has been published in top-tier journals such as _Digital Journalism_ and _Journalism & Mass Communication Quarterly_, and earned national recognition with an academic award from the [Association of Education in Journalism and Mass Communication (AEJMC)](https://www.aejmc.org/) in 2022. I have also presented my research at notable conferences such as the [National Communication Association (NCA)](https://www.natcom.org/) and the [Canadian Communication Association (CCA)](https://acc-cca.ca/).
 
 Before joining Rutgers, I earned my M.S. in Communication, Culture, and Media from Drexel University and hold a B.A. in Photography from the University of Tehran, Iran.
-
