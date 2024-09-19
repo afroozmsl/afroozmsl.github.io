@@ -45,4 +45,7 @@ departure from the protest paradigm. _Association for Education in Journalism & 
 
 ### **White Papers**
 
-**Mosallaei, A.** (2024). [Social media’s untapped potential in the climate-change fight](https://www.freepress.net/blog/social-medias-untapped-potential-climate-change-fight). _Free Press_.
+**Mosallaei, A.** (2024, September 17). [Baz-andishi dar nazariat-e khoshoonat-parhizi (translation: Rethinking
+nonviolence theories](https://www.freepress.net/blog/social-medias-untapped-potential-climate-change-fight). _RadioZamaneh_.
+
+**Mosallaei, A.** (2024, July 31). [Social media’s untapped potential in the climate-change fight](https://www.freepress.net/blog/social-medias-untapped-potential-climate-change-fight). _Free Press_.
