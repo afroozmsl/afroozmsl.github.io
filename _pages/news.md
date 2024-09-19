@@ -18,7 +18,8 @@ In 2023, I took on the role of **panel co-organizer & chair** for the session ti
 In 2023, I was honored to be an **invited panelist** for a panel titled ["'Woman, Life, Freedom': Reporting #MahsaAmini protests in solidarity,"](https://www.youtube.com/watch?v=8EcrTkkmtl8) part of the Solidarity Journalism Initiative at the [Center for Media Engagement, University of Texas at Austin](https://mediaengagement.org/). This panel delved into the complexities of reporting on the #MahsaAmini protests, examining the role of journalism in social justice movements.
 
 
-[![YouTube Video](https://img.youtube.com/vi/8EcrTkkmtl8/0.jpg)](https://www.youtube.com/watch?v=8EcrTkkmtl8)
+[![YouTube Video](https://img.youtube.com/vi/8EcrTkkmtl8/hqdefault.jpg)](https://www.youtube.com/watch?v=8EcrTkkmtl8)
+
 
 
 Further contributing to the dialogue on media and uprisings, I co-organized and co-chaired a panel on "Iranian uprisings and (non)mainstream journalism: Possibilities and limitations" at the Department of Journalism & Media Studies, Rutgers University, in the winter of 2023. This panel addressed the critical intersection of media coverage and political movements.
