@@ -16,9 +16,10 @@ nav_order: 3
 
 **Mosallaei, A.** , & Feldman, L. **(in press)**. Do you see what I see? Perceptions & effects of image-text congruity in online climate change news. _Journalism & Mass Communication Quarterly_.
 
+**Mosallaei, A.** , & Porpora, D. **(in press)**. Citizen videos vs. legacy media visual reports: How eyewitness imagery becomes a corrective. _International Journal of Communication_.
+
 
 #### Works in Progress
-**Mosallaei, A.** , & Porpora, D. **(R&R)**. Citizen videos vs. legacy media visual reports: How eyewitness imagery becomes a corrective. _International Journal of Communication_.
 
 **Mosallaei, A.** , Wang, L., & Ognyanova, K. **(under review)**. From politics to entertainment: Exploring “News Finds Me” perceptions across news topics. _Journal of Computer-Mediated Communication._.
 
