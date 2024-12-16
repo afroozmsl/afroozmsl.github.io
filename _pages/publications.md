@@ -12,18 +12,18 @@ nav_order: 3
 
 #### Published Works
 
+**Mosallaei, A.** , & Feldman, L. **(2024)**. Do you see what I see? Perceptions & effects of image-text congruity in online climate change news. _Journalism & Mass Communication Quarterly_.
+
 **Mosallaei, A. (2024).** [Protest paradigm revisited: Is depicting protesters’ (counter)violence really wrong?](https://www.tandfonline.com/doi/full/10.1080/21670811.2024.2329651) _Digital Journalism_ , 1-20.
 
-**Mosallaei, A.** , & Feldman, L. **(in press)**. Do you see what I see? Perceptions & effects of image-text congruity in online climate change news. _Journalism & Mass Communication Quarterly_.
-
-**Mosallaei, A.** , & Porpora, D. **(in press)**. Citizen videos vs. legacy media visual reports: How eyewitness imagery becomes a corrective. _International Journal of Communication_.
+**Mosallaei, A.** , & Porpora, D. **(2024)**. Citizen videos vs. legacy media visual reports: How eyewitness imagery becomes a corrective. _International Journal of Communication_.
 
 
 #### Works in Progress
 
-**Mosallaei, A.** , Wang, L., & Ognyanova, K. **(under review)**. From politics to entertainment: Exploring “News Finds Me” perceptions across news topics. _Journal of Computer-Mediated Communication._.
+**Mosallaei, A.** , Wang, L., & Ognyanova, K. **(under review)**. From politics to entertainment: Exploring “News Finds Me” perceptions across news topics. _Social Media + Society._.
 
-**Mosallaei, A.** , Thomas-Walters, L., Goldberg, M. H., Rosenthal, S. A., & Leiserowitz, A. **(data collection)**. Examining heatwave imagery: A comparative analysis of risk perception across valence categories.
+**Mosallaei, A.** , Thomas-Walters, L., Goldberg, M. H., Rosenthal, S. A., & Leiserowitz, A. **(data analysis)**. Examining heatwave imagery: A comparative analysis of risk perception across valence categories.
 
 
 ### **Peer-reviewed Conference Papers**
