@@ -12,6 +12,12 @@ My teaching philosophy is anchored in the belief that education extends beyond k
 #### **Instructor of Record**
 
 
+##### **_Introduction to Media_ (undergraduate-level, Rutgers University)**
+
+##### Summer 2024, Fall 2025
+
+I have been teaching Introduction to Media as the instructor of record, with a total of 85 students enrolled across offerings. This course introduces students to the history, structures, and impacts of media, tracing developments from early print to today’s algorithm-driven digital platforms. We examine how media industries evolve, how messages are created and distributed, and how audiences interpret and respond to them. Special emphasis is placed on the role of artificial intelligence (AI) in reshaping media production, distribution, and consumption, and on the cultural, political, and ethical implications of these shifts. Students develop critical media literacy skills to navigate today’s complex information environment. 
+
 ##### **_Digital Media Research_ (graduate-level, Rutgers University)**
 
 ##### Summer 2022, 2023, 2024
