@@ -23,7 +23,7 @@ description: Research articles, institutional briefings, and writing on journali
   <li class="research-entry">
     <p class="entry-meta">2026 · Rutgers University · Doctoral dissertation</p>
     <h3 class="entry-title"><a href="https://rucore.libraries.rutgers.edu/rutgers-lib/75620/">Navigating climate change news: Exploring platformization of climate-related news on Instagram</a></h3>
-    <p class="citation-detail">Mosallaeipour, A. (2026). Repository record; full text under embargo until April 10, 2028.</p>
+    <p class="citation-detail">Mosallaei, A. (2026). Repository record; full text under embargo until April 10, 2028.</p>
   </li>
   <li class="research-entry">
     <p class="entry-meta">2025 · Social Media + Society</p>
