@@ -159,6 +159,19 @@ footer a:hover {
   color: var(--global-theme-color);
 }
 
+.contribution-entry .entry-title {
+  margin-bottom: 0.25rem;
+}
+
+.contribution-organization {
+  margin-bottom: 0.1rem;
+}
+
+.contribution-entry .entry-meta {
+  font-weight: 600;
+  margin-bottom: 0.65rem;
+}
+
 .research-entry > p:last-child {
   margin-bottom: 0;
   max-width: 44rem;
