@@ -81,27 +81,39 @@ body.visual-narrative .narrative-eyebrow {
 body.visual-narrative .narrative-about-hero {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
-  min-height: 540px;
-  margin-bottom: 0;
+  align-items: center;
+  max-width: 1120px;
+  min-height: 0;
+  margin: 0 auto;
 }
 
 body.visual-narrative .narrative-hero-copy {
   align-self: center;
-  padding: 4.5rem max(2rem, 8vw);
+  padding: 3.5rem 2rem;
+}
+
+body.visual-narrative .narrative-about {
+  font-family: "Newsreader", Georgia, serif;
+}
+
+body.visual-narrative .narrative-about .narrative-eyebrow,
+body.visual-narrative .narrative-about .about-links {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body.visual-narrative .narrative-about-hero .post-title {
   margin: 1.3rem 0;
-  font-size: clamp(3.5rem, 7vw, 5.6rem);
+  font-size: clamp(3.8rem, 7vw, 6rem);
   font-weight: 500;
-  letter-spacing: -0.065em;
-  line-height: 0.98;
+  letter-spacing: -0.045em;
+  line-height: 0.95;
 }
 
 body.visual-narrative .narrative-about-hero .desc {
   max-width: 26rem;
   color: var(--global-theme-color);
-  font-size: 1.2rem;
+  font-size: 1.35rem;
+  font-style: italic;
   line-height: 1.45;
 }
 
@@ -115,10 +127,10 @@ body.visual-narrative .narrative-hero-copy::after {
 }
 
 body.visual-narrative .narrative-profile {
-  width: 100%;
-  height: 540px;
-  margin: 0;
-  overflow: hidden;
+  width: min(100%, 360px);
+  height: auto;
+  justify-self: center;
+  margin: 3rem 2rem 3rem 0;
 }
 
 body.visual-narrative .narrative-profile figure,
@@ -126,16 +138,14 @@ body.visual-narrative .narrative-profile picture,
 body.visual-narrative .narrative-profile img {
   display: block;
   width: 100%;
-  height: 100%;
+  height: auto;
   margin: 0;
 }
 
 body.visual-narrative .narrative-profile img {
-  max-width: none;
-  object-fit: cover;
-  object-position: center 32%;
+  max-width: 100%;
   border-radius: 0;
-  filter: grayscale(0.95) contrast(1.08);
+  filter: none;
 }
 
 body.visual-narrative .narrative-about-content {
@@ -159,8 +169,8 @@ body.visual-narrative .narrative-about-aside h2 {
 body.visual-narrative .narrative-about-content .clearfix > p {
   max-width: 40rem;
   margin-bottom: 1.45rem;
-  font-size: 1rem;
-  line-height: 1.78;
+  font-size: 1.12rem;
+  line-height: 1.65;
 }
 
 body.visual-narrative .about-links {
@@ -303,7 +313,9 @@ body.visual-narrative footer.sticky-bottom .container {
   }
 
   body.visual-narrative .narrative-profile {
-    height: 350px;
+    width: min(calc(100% - 3rem), 400px);
+    height: auto;
+    margin: 0 auto 2rem;
   }
 
   body.visual-narrative .narrative-about-content {
