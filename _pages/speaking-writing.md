@@ -17,16 +17,16 @@ description: A selection of invited talks, writing, and panels I've helped organ
     <p>Invited to contribute a prediction for the 2027 series.</p>
   </li>
   <li class="research-entry contribution-entry">
+    <h3 class="entry-title">Regional Communicators Meeting</h3>
+    <p class="contribution-organization">Multnomah County Health Department</p>
+    <p class="entry-meta">Invited Speaker · 2026</p>
+    <p>Invited to present research conducted with Yale on heat-wave imagery and to discuss how images can be used to communicate research findings. The research was published in <em>Environmental Communication</em>.</p>
+  </li>
+  <li class="research-entry contribution-entry">
     <h3 class="entry-title"><a href="https://mediaengagement.org/event/woman-life-freedom-reporting-mahsaamini-protests-in-solidarity/">“Woman, Life, Freedom”: Reporting #MahsaAmini Protests in Solidarity</a></h3>
     <p class="contribution-organization">Center for Media Engagement, University of Texas at Austin</p>
     <p class="entry-meta">Invited Panelist · 2023</p>
     <p>A Solidarity Journalism Initiative panel on reporting the protests in Iran.</p>
-  </li>
-  <li class="research-entry contribution-entry">
-    <h3 class="entry-title">Regional Communicators Meeting</h3>
-    <p class="contribution-organization">Multnomah County Health Department</p>
-    <p class="entry-meta">Invited Speaker</p>
-    <p>Invited to present research conducted with Yale on heat-wave imagery and to discuss how images can be used to communicate research findings. The research was published in <em>Environmental Communication</em>.</p>
   </li>
 </ul>
 

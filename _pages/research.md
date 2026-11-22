@@ -2,9 +2,9 @@
 layout: page
 title: Research
 permalink: /research/
-redirect: /publications/
+redirect: /selected-work/
 sitemap: false
 nav: false
 ---
 
-This page has moved to [Publications]({{ '/publications/' | relative_url }}).
+This page has moved to [Selected Work]({{ '/selected-work/' | relative_url }}).
