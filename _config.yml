@@ -223,6 +223,7 @@ exclude:
   - LICENSE
   - package.json
   - package-lock.json
+  - "*.Rproj"
   - purgecss.config.js
   - README.md
   - vendor
