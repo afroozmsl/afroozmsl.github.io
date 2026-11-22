@@ -23,8 +23,7 @@ Across projects I've managed or partook in, I am interested in questions that ar
 
 I hold a Ph.D. in Journalism and Media Studies from Rutgers University. What complements my research is my background in photography and visual communication, which informs how I examine—and communicate—the relationship between evidence, presentation and public understanding.
 
-<div class="about-links" aria-label="Contact and further background">
+<div class="about-links" aria-label="Contact">
   <a href="mailto:amossallaei@gmail.com">Email</a>
   <a href="https://www.linkedin.com/in/afrooz-mosallaei/">LinkedIn</a>
-  <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
 </div>
