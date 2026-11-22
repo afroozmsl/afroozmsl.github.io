@@ -1,0 +1,353 @@
+/* The Visual Narrative treatment is limited to About, Selected Work, and Speaking & Writing. */
+body.visual-narrative {
+  --global-bg-color: #eeeae5;
+  --global-text-color: #222323;
+  --global-text-color-light: #686b6b;
+  --global-theme-color: #8a4e51;
+  --global-hover-color: #743d40;
+  --global-divider-color: #bfb9b2;
+  --global-card-bg-color: #eeeae5;
+  --global-footer-bg-color: #282c2d;
+  --global-footer-text-color: #d6d2ca;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 64px;
+}
+
+html[data-theme="dark"] body.visual-narrative {
+  --global-bg-color: #252525;
+  --global-text-color: #f0ece7;
+  --global-text-color-light: #bcb5b3;
+  --global-theme-color: #e1a5a6;
+  --global-hover-color: #efc3c4;
+  --global-divider-color: #66615d;
+  --global-card-bg-color: #252525;
+  --global-footer-bg-color: #131617;
+  --global-footer-text-color: #d6d2ca;
+}
+
+body.visual-narrative > main.container {
+  max-width: none;
+  margin-top: 0 !important;
+  padding: 0;
+}
+
+body.visual-narrative .post {
+  max-width: none;
+}
+
+body.visual-narrative .navbar {
+  min-height: 64px;
+  border: 0;
+  background: #282c2d;
+}
+
+html[data-theme="dark"] body.visual-narrative .navbar {
+  background: #131617;
+}
+
+body.visual-narrative .navbar .container {
+  max-width: 1120px;
+}
+
+body.visual-narrative .navbar.navbar-light .navbar-brand,
+body.visual-narrative .navbar.navbar-light .navbar-nav .nav-item .nav-link,
+body.visual-narrative #light-toggle {
+  color: #f5f2ed;
+}
+
+body.visual-narrative .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link,
+body.visual-narrative .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  color: #e4b5ad;
+}
+
+body.visual-narrative .navbar .navbar-nav .nav-item.active > .nav-link {
+  text-decoration-color: #e4b5ad;
+}
+
+body.visual-narrative .navbar-toggler .icon-bar {
+  background-color: #f5f2ed;
+}
+
+body.visual-narrative .narrative-eyebrow {
+  color: var(--global-theme-color);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+/* About: a photographic opening followed by the existing biography. */
+body.visual-narrative .narrative-about-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  min-height: 540px;
+  margin-bottom: 0;
+}
+
+body.visual-narrative .narrative-hero-copy {
+  align-self: center;
+  padding: 4.5rem max(2rem, 8vw);
+}
+
+body.visual-narrative .narrative-about-hero .post-title {
+  margin: 1.3rem 0;
+  font-size: clamp(3.5rem, 7vw, 5.6rem);
+  font-weight: 500;
+  letter-spacing: -0.065em;
+  line-height: 0.98;
+}
+
+body.visual-narrative .narrative-about-hero .desc {
+  max-width: 26rem;
+  color: var(--global-theme-color);
+  font-size: 1.2rem;
+  line-height: 1.45;
+}
+
+body.visual-narrative .narrative-hero-copy::after {
+  content: "";
+  display: block;
+  width: 95px;
+  height: 2px;
+  margin-top: 2rem;
+  background: var(--global-theme-color);
+}
+
+body.visual-narrative .narrative-profile {
+  width: 100%;
+  height: 540px;
+  margin: 0;
+  overflow: hidden;
+}
+
+body.visual-narrative .narrative-profile figure,
+body.visual-narrative .narrative-profile picture,
+body.visual-narrative .narrative-profile img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body.visual-narrative .narrative-profile img {
+  max-width: none;
+  object-fit: cover;
+  object-position: center 32%;
+  border-radius: 0;
+  filter: grayscale(0.95) contrast(1.08);
+}
+
+body.visual-narrative .narrative-about-content {
+  display: grid;
+  grid-template-columns: minmax(170px, 0.42fr) minmax(0, 1fr);
+  gap: 0 3.5rem;
+  max-width: 1120px;
+  margin: auto;
+  padding: 4rem 2rem 4.25rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+body.visual-narrative .narrative-about-aside h2 {
+  margin-top: 0.8rem;
+  font-size: clamp(1.6rem, 2.5vw, 2rem);
+  font-weight: 500;
+  letter-spacing: -0.04em;
+  line-height: 1.18;
+}
+
+body.visual-narrative .narrative-about-content .clearfix > p {
+  max-width: 40rem;
+  margin-bottom: 1.45rem;
+  font-size: 1rem;
+  line-height: 1.78;
+}
+
+body.visual-narrative .about-links {
+  margin-top: 2.25rem;
+  padding-top: 1.25rem;
+}
+
+/* Inner pages: typography and whitespace carry the design without image panels. */
+body.visual-narrative .narrative-inner .post-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 280px;
+  margin: 0;
+  padding: 3.5rem max(2rem, calc((100vw - 1040px) / 2));
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+body.visual-narrative .narrative-inner .post-title {
+  margin: 1.1rem 0 1rem;
+  font-size: clamp(3.1rem, 6.4vw, 5rem);
+  font-weight: 500;
+  letter-spacing: -0.06em;
+  line-height: 1;
+}
+
+body.visual-narrative .narrative-inner .post-description {
+  max-width: 37rem;
+  margin: 0;
+  color: var(--global-text-color-light);
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+body.visual-narrative .narrative-inner article {
+  display: grid;
+  grid-template-columns: minmax(165px, 0.36fr) minmax(0, 1fr);
+  gap: 0 3rem;
+  max-width: 1120px;
+  margin: auto;
+  padding: 2rem 2rem 4rem;
+}
+
+body.visual-narrative .narrative-inner .section-heading {
+  align-self: start;
+  max-width: 14rem;
+  margin: 2.8rem 0 0;
+  font-size: 1.55rem;
+  font-weight: 500;
+  letter-spacing: -0.035em;
+  line-height: 1.18;
+}
+
+body.visual-narrative .narrative-inner .research-list {
+  min-width: 0;
+  margin: 1.55rem 0 2rem;
+}
+
+body.visual-narrative .narrative-inner .research-entry {
+  padding: 1.25rem 0 1.45rem;
+  border-top: 1px solid var(--global-divider-color);
+  border-bottom: 0;
+}
+
+body.visual-narrative .narrative-inner .research-entry:last-child {
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+body.visual-narrative .narrative-inner .entry-meta {
+  margin-bottom: 0.55rem;
+  color: var(--global-theme-color);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+body.visual-narrative .narrative-inner .entry-title {
+  margin: 0 0 0.55rem;
+  font-size: clamp(1.12rem, 1.8vw, 1.28rem);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.35;
+}
+
+body.visual-narrative .narrative-inner .entry-title a {
+  color: var(--global-text-color);
+  text-decoration-color: var(--global-theme-color);
+}
+
+body.visual-narrative .narrative-inner .citation-detail,
+body.visual-narrative .narrative-inner .contribution-organization,
+body.visual-narrative .narrative-inner .contribution-entry > p:last-child,
+body.visual-narrative .narrative-inner .research-footer {
+  color: var(--global-text-color-light);
+  font-size: 0.88rem;
+  line-height: 1.62;
+}
+
+body.visual-narrative .narrative-inner .contribution-organization {
+  margin-bottom: 0.4rem;
+  color: var(--global-text-color);
+}
+
+body.visual-narrative .narrative-inner .contribution-entry .entry-meta {
+  margin-bottom: 0.55rem;
+}
+
+body.visual-narrative .narrative-inner .research-footer {
+  grid-column: 2;
+  margin: 0;
+}
+
+body.visual-narrative footer.sticky-bottom {
+  margin-top: 0 !important;
+  padding: 1.6rem 0;
+  border: 0;
+  background: var(--global-footer-bg-color);
+  color: var(--global-footer-text-color);
+  font-size: 0.8rem;
+}
+
+body.visual-narrative footer.sticky-bottom .container {
+  max-width: 1120px;
+  text-align: left;
+}
+
+@media (max-width: 767.98px) {
+  body.visual-narrative .narrative-about-hero {
+    display: block;
+  }
+
+  body.visual-narrative .narrative-hero-copy {
+    padding: 3.2rem 2rem;
+  }
+
+  body.visual-narrative .narrative-about-hero .post-title {
+    font-size: clamp(3.6rem, 11vw, 4.8rem);
+  }
+
+  body.visual-narrative .narrative-profile {
+    height: 350px;
+  }
+
+  body.visual-narrative .narrative-about-content {
+    display: block;
+    padding: 3rem 2rem;
+  }
+
+  body.visual-narrative .narrative-about-aside {
+    margin-bottom: 2rem;
+  }
+
+  body.visual-narrative .narrative-inner .post-header {
+    min-height: 0;
+    padding: 3rem 2rem;
+  }
+
+  body.visual-narrative .narrative-inner article {
+    display: block;
+    padding: 0.8rem 2rem 3rem;
+  }
+
+  body.visual-narrative .narrative-inner .section-heading {
+    margin-top: 2.5rem;
+  }
+
+  body.visual-narrative .narrative-inner .research-list {
+    margin: 1.3rem 0 0;
+  }
+
+  body.visual-narrative .narrative-inner .research-entry {
+    padding: 1.1rem 0 1.25rem;
+  }
+
+  body.visual-narrative .narrative-inner .research-footer {
+    margin-top: 1.5rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  body.visual-narrative .narrative-hero-copy,
+  body.visual-narrative .narrative-about-content,
+  body.visual-narrative .narrative-inner .post-header,
+  body.visual-narrative .narrative-inner article {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}

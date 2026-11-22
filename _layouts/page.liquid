@@ -8,8 +8,9 @@ layout: default
   </style>
 {% endif %}
 
-<div class="post">
+<div class="post{% if page.visual_narrative %} narrative-inner{% endif %}">
   <header class="post-header">
+    {% if page.visual_narrative and page.eyebrow %}<p class="narrative-eyebrow">{{ page.eyebrow }}</p>{% endif %}
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-description">{{ page.description }}</p>
   </header>

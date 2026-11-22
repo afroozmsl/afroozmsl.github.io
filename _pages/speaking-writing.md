@@ -4,6 +4,8 @@ title: Speaking & Writing
 permalink: /speaking-writing/
 nav: true
 nav_order: 4
+visual_narrative: true
+eyebrow: Talks · Writing · Panels
 description: A selection of invited talks, writing, and panels I've helped organize or chair.
 ---
 

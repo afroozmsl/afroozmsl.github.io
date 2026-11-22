@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 nav_order: 1
+visual_narrative: true
 display_name: Afrooz Mosallaei, Ph.D.
 subtitle: Researcher working across AI, journalism, and technology policy
 description: Afrooz Mosallaei is a researcher working across AI, journalism, and technology policy.

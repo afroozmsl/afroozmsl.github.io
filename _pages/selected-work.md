@@ -4,6 +4,8 @@ title: Selected Work
 permalink: /selected-work/
 nav: true
 nav_order: 2
+visual_narrative: true
+eyebrow: Research · Publications · Commentary
 description: Research articles, institutional briefings, and writing on journalism, technology, and public understanding.
 ---
 
