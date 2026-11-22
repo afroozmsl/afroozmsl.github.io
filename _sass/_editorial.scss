@@ -1,0 +1,206 @@
+/* A quieter reading layer for the site's four main sections. */
+:root {
+  --global-bg-color: #faf9f6;
+  --global-text-color: #242b2d;
+  --global-text-color-light: #536064;
+  --global-theme-color: #155767;
+  --global-hover-color: #0d4655;
+  --global-divider-color: #d7ddda;
+  --global-card-bg-color: #faf9f6;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #1d2528;
+  --global-text-color: #e9ece9;
+  --global-text-color-light: #bec9c8;
+  --global-theme-color: #9cd7df;
+  --global-hover-color: #c0e9ee;
+  --global-divider-color: #526064;
+  --global-card-bg-color: #1d2528;
+}
+
+body {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+
+.post {
+  max-width: 800px;
+  margin-inline: auto;
+}
+
+.post-header {
+  margin-bottom: 2.25rem;
+}
+
+.post-header .post-title {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 1.16;
+}
+
+.post-header .desc,
+.post-header .post-description {
+  max-width: 42rem;
+  color: var(--global-text-color-light);
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+.post article > p,
+.post .clearfix > p {
+  max-width: 43rem;
+  margin-bottom: 1.4rem;
+}
+
+.post a:not(.btn),
+footer a {
+  text-underline-offset: 0.17em;
+}
+
+.post a:not(.btn):hover,
+footer a:hover {
+  text-decoration-thickness: 0.12em;
+}
+
+:focus-visible {
+  outline: 3px solid var(--global-theme-color);
+  outline-offset: 3px;
+}
+
+.navbar {
+  opacity: 1;
+}
+
+.navbar .navbar-brand {
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-size: 0.94rem;
+  padding-inline: 0.8rem;
+  white-space: nowrap;
+}
+
+.navbar .navbar-nav .nav-item.active > .nav-link {
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.35em;
+}
+
+.profile img {
+  box-shadow: none !important;
+  border-radius: 0.25rem;
+}
+
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.4rem;
+  max-width: 43rem;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+  font-size: 0.95rem;
+}
+
+.section-heading {
+  margin-top: 2.5rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.research-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.research-entry {
+  border-bottom: 1px solid var(--global-divider-color);
+  padding: 1.55rem 0 1.7rem;
+}
+
+.research-entry:first-child {
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.entry-meta {
+  color: var(--global-text-color-light);
+  font-size: 0.86rem;
+  font-weight: 500;
+  letter-spacing: 0.015em;
+  line-height: 1.5;
+  margin-bottom: 0.4rem;
+}
+
+.entry-title {
+  font-size: clamp(1.13rem, 2vw, 1.37rem);
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0 0 0.45rem;
+  overflow-wrap: anywhere;
+}
+
+.entry-title a {
+  color: var(--global-text-color);
+  text-decoration: underline;
+  text-decoration-color: var(--global-theme-color);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+.entry-title a:hover {
+  color: var(--global-theme-color);
+}
+
+.research-entry > p:last-child {
+  margin-bottom: 0;
+  max-width: 44rem;
+}
+
+.citation-detail,
+.research-footer {
+  color: var(--global-text-color-light);
+  font-size: 0.96rem;
+  line-height: 1.55;
+}
+
+.research-footer {
+  margin-top: 1.8rem;
+}
+
+@media (max-width: 991.98px) {
+  #navbarNav {
+    text-align: left !important;
+    padding: 0.75rem 0 0.5rem;
+  }
+
+  .navbar .navbar-nav .nav-link {
+    display: inline-block;
+    padding: 0.6rem 0;
+    white-space: normal;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .post-header {
+    margin-bottom: 1.7rem;
+  }
+
+  .profile.float-right,
+  .profile.float-left {
+    width: min(70%, 290px);
+    float: none !important;
+    margin: 0 0 1.6rem;
+  }
+
+  .research-entry {
+    padding-block: 1.25rem;
+  }
+}
